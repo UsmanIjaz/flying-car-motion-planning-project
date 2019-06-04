@@ -36,3 +36,10 @@ Our planning algorithm is going to look something like the following:
 
 ### Implementation
 For details about implementation, please check [Implementation Details](https://github.com/UsmanIjaz/Flying_Car_Motion_Planning_Project/blob/master/3DMotionPlanningWriteup.pdf)
+
+### Results
+Grid Based Motion Planning Output Video
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/XsBuXVgsRjk/0.jpg)](https://www.youtube.com/watch?v=XsBuXVgsRjk)
+
+Graph based Motion Planning Output Video
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/yVZNJJu-71M/0.jpg)](https://www.youtube.com/watch?v=yVZNJJu-71M)
